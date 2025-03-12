@@ -1,6 +1,6 @@
 # Hi, I'm Shamsuddin Ahmed! 
 
-> **“Yes, AI makes mistakes—just like me. We’re basically siblings.Ctrl + C, Ctrl + V specialist.”**  
+> **“Yes, AI makes mistakes—just like me. We’re basically siblings—except I have an extra skill: Ctrl + C, Ctrl + V specialist.”**  
 > _I break stuff, fix it, and then break it again so you don’t have to. You’re welcome._
 
 ---
@@ -40,10 +40,9 @@ Check out my questionable attempts at academic writing on [**ORCID**](https://or
 ---
 
 ## Find Me on the Interwebs
-- **Email**: [info@shamspias.com](mailto:info@shamspias.com)  
-- **GitHub**: [@shamspias](https://github.com/shamspias)  
-- **LinkedIn**: [@shamspias0](https://linkedin.com/in/shamspias0)  
-- **ORCID**: [0009-0008-7537-9138](https://orcid.org/0009-0008-7537-9138)
+- **GitHub**: 👾
+- **LinkedIn**: [@shamspias0](https://linkedin.com/in/shamspias0)
+- **Website**: [🏄🏽‍♂️](https://shamspias.com)
 
 ---
 
